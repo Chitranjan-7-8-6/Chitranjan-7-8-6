@@ -23,6 +23,9 @@ I am a BCA graduate working as a **Data Analyst** and a **freelance Web Develope
 - 🌐 I build and deploy responsive websites for clients as a freelancer
 - 📫 Open to data analytics opportunities and freelance web projects
 
+![Followers](https://img.shields.io/github/followers/Chitranjan-7-8-6?style=for-the-badge&logo=github&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Chitranjan-7-8-6&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20Repos)
+
 ---
 
 ## 🛠️ Tech Stack
