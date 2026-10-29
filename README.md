@@ -23,7 +23,7 @@ I am a BCA graduate working as a **Data Analyst** and a **freelance Web Develope
 - 🌐 I build and deploy responsive websites for clients as a freelancer
 - 📫 Open to data analytics opportunities and freelance web projects
 
-![Projects](https://img.shields.io/github/Projects/Chitranjan-7-8-6?style=for-the-badge&logo=github&label=Followers)
+[![Followers](https://img.shields.io/github/followers/Chitranjan-7-8-6?style=for-the-badge&logo=github&label=Followers)](https://github.com/Chitranjan-7-8-6?tab=followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Chitranjan-7-8-6&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20Repos)
 
 ---
@@ -90,15 +90,30 @@ Exploratory analysis of seasonal agriculture performance data to uncover trends 
 
 [🔗 Live Project](https://chitranjan-7-8-6.github.io/Seasonal-Agriculture-Performance-Analysis/) · [📁 Repository](https://github.com/Chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis)
 
+[![Live Project](https://img.shields.io/badge/Live-Project-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://chitranjan-7-8-6.github.io/Seasonal-Agriculture-Performance-Analysis/)
+[![Repository](https://img.shields.io/badge/Source-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis)
+![Top Language](https://img.shields.io/github/languages/top/Chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis?style=flat-square)
+
 ### 🚗 Car Market Trends Analysis (CarDekho Dataset)
 Analysis of used-car market trends using the CarDekho dataset, covering pricing, brands and vehicle features.
 
 [🔗 Live Project](https://chitranjan-7-8-6.github.io/Car_Market_Trend_Analysis/) · [📁 Repository](https://github.com/Chitranjan-7-8-6/Car_Market_Trend_Analysis)
 
+[![Live Project](https://img.shields.io/badge/Live-Project-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://chitranjan-7-8-6.github.io/Car_Market_Trend_Analysis/)
+[![Repository](https://img.shields.io/badge/Source-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chitranjan-7-8-6/Car_Market_Trend_Analysis)
+![Top Language](https://img.shields.io/github/languages/top/Chitranjan-7-8-6/Car_Market_Trend_Analysis?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Chitranjan-7-8-6/Car_Market_Trend_Analysis?style=flat-square)
+
 ### 🆔 Aadhaar Enrollment EDA
 Exploratory data analysis of Aadhaar enrollment data to understand patterns across regions and time.
 
 [🔗 Live Project](https://chitranjan-7-8-6.github.io/Aadhar-Enrolment-EDA/) · [📁 Repository](https://github.com/Chitranjan-7-8-6/Aadhar-Enrolment-EDA)
+
+[![Live Project](https://img.shields.io/badge/Live-Project-2ea44f?style=flat-square&logo=githubpages&logoColor=white)](https://chitranjan-7-8-6.github.io/Aadhar-Enrolment-EDA/)
+[![Repository](https://img.shields.io/badge/Source-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Chitranjan-7-8-6/Aadhar-Enrolment-EDA)
+![Top Language](https://img.shields.io/github/languages/top/Chitranjan-7-8-6/Aadhar-Enrolment-EDA?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Chitranjan-7-8-6/Aadhar-Enrolment-EDA?style=flat-square)
 
 
 ## 🤝 Let's Connect
