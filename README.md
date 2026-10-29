@@ -100,16 +100,6 @@ Exploratory data analysis of Aadhaar enrollment data to understand patterns acro
 
 [🔗 Live Project](https://chitranjan-7-8-6.github.io/Aadhar-Enrolment-EDA/) · [📁 Repository](https://github.com/Chitranjan-7-8-6/Aadhar-Enrolment-EDA)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chitranjan-7-8-6&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitranjan-7-8-6&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
