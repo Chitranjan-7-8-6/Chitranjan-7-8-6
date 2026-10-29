@@ -11,6 +11,8 @@
   <a href="https://chitranjan-portfolio-2618.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"></a>
   <a href="https://drive.google.com/file/d/1D_CUEWSyb-i5t-KtC48SCqW4fK0YkdQM/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
 </p>
+![Followers](https://img.shields.io/github/followers/Chitranjan-7-8-6?style=for-the-badge&logo=github&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Chitranjan-7-8-6&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20Repos)
 
 ---
 
