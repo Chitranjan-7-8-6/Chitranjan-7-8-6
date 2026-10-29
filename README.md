@@ -77,6 +77,9 @@ I am a BCA graduate working as a **Data Analyst** and a **freelance Web Develope
 
 ## 🚀 Featured Projects
 
+![Top Language](https://img.shields.io/github/languages/top/Chitranjan-7-8-6/Car_Market_Trend_Analysis?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Chitranjan-7-8-6/Seasonal-Agriculture-Performance-Analysis?style=flat-square)
+
 ### 🌐 Portfolio Website
 My personal portfolio showcasing my skills, projects and experience as a Data Analyst and Web Developer.
 
